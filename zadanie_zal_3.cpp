@@ -135,7 +135,7 @@ int main() {
             cout << tabela.get() << " ";
         }
         ++tabela;
-    }
+    }cout<<endl;
 
 
     return 0;
